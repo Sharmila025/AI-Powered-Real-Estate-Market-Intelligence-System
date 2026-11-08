@@ -1,0 +1,16 @@
+{
+  "k": 4,
+  "silhouette_optimal_k": 3,
+  "silhouette_kmeans": 0.13347360976113593,
+  "silhouette_hier": 0.08669126490660767,
+  "davies_bouldin": 1.8104073399335685,
+  "ari_kmeans_vs_hier": 0.21721901649050276,
+  "n_features": 28,
+  "pca_var": 0.5102356655884657,
+  "names": {
+    "3": "Portfolio Builders",
+    "2": "Premium Buyers",
+    "1": "Entry-Level Buyers",
+    "0": "Satisfied Core Buyers"
+  }
+}
