@@ -1,0 +1,2 @@
+# AI-Powered-Real-Estate-Market-Intelligence-System
+This project applies machine learning algorithms to analyze real estate customer data, segment buyers into meaningful groups, and assess investment potential. The solution provides actionable market intelligence for developers, agents, investors, and property consultants to optimize sales strategies and identify high-value investment opportunities.
